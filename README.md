@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://marcel0486.github.io/Portifolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/queiroz1942/)
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarCel0486&show_icons=true&theme=dark)
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarCel0486&show_icons=true&theme=gruvbox)
 
 ## Tecnologias
 <div style="display: inline_block"> <br/>
